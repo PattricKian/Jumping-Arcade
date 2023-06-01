@@ -1,6 +1,6 @@
 # Jumping Arcade
 
-Jumping je skákačka v zimnom prostredí, kde hráč môže získať body zbieraním mincí, preskakovat prekážky, vyhýbať sa nepriateľom a cieľom je dosiahnuť koniec úrovne.
+Jumping je skákačka vytvorená v Unity, scripty písané v C++, v zimnom prostredí, kde hráč môže získať body zbieraním mincí, preskakovat prekážky, vyhýbať sa nepriateľom a cieľom je dosiahnuť koniec úrovne.
 
 ## Funkcie hry
 
